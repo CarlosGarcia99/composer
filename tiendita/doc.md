@@ -1,1 +1,3 @@
-
+- [ ] actividad1.
+- [ ] acctividad2.
+- [ ] published the post.
